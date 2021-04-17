@@ -54,4 +54,4 @@ int main(void)
 		checkButtons();
 		snake.move();
 	}
-}//snake
+}
