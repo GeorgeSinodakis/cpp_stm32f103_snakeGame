@@ -5,9 +5,7 @@
 1. Download the following programs
 
     * [GNU Arm Embedded Toolchain][gnu arm]
-
     * [STM32CubeProgrammer][programmer]
-
     * [Make][makelink]
 
 2. Create environmental variables for the executables:
